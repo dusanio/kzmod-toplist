@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+:root {
+  --primary: #0cb469;
+  --secondary: #3a3a3a;
+  --ternary: #414141;
+  --background: #292929;
+  --card: #333333;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}

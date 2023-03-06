@@ -1,2 +1,3 @@
 # kzmod-toplist
-Toplist for Kreedz Climbing game
+
+Toplist for records made for game Kreedz Climbing
